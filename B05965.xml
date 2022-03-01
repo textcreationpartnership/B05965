@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The more excellent way; or, A proposal of a compleat work of charity.</title>
+            <author>Stephens, Edward, d. 1706</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05965</idno>
+            <idno type="STC">Wing S5429A</idno>
+            <idno type="STC">ESTC R232506</idno>
+            <idno type="EEBO-CITATION">49521007</idno>
+            <idno type="OCLC">ocm 49521007</idno>
+            <idno type="VID">174228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174228)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2678:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The more excellent way; or, A proposal of a compleat work of charity.</title>
+                  <author>Stephens, Edward, d. 1706</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Socrates Christianus on p. [3].</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian women --  England --  Early works to 1800.</term>
+               <term>Church charities --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174228:1"/>
+            <!-- PDF PAGE 77 -->
+            <head>The more Excellent Way: Or, A PROPOSAL of a Compleat Work of Charity.</head>
+            <head type="sub">For the Accommodation of ſome <hi>Devout Women,</hi> with ſuch mean, but convenient <hi>Habitation, Work, Wages,</hi> and <hi>Relief,</hi> that they may have Time and Strength for the <hi>Worſhip of GOD,</hi> both in <hi>Publick</hi> and <hi>Private,</hi> and Freedom of Mind for <hi>Meditation,</hi> and <hi>Religious Exerciſes,</hi> while their Hands are Imploy'd for <hi>Maintainance</hi> of the <hi>Body;</hi> and that while they enjoy the Bene<g ref="char:EOLhyphen"/>fit of ſuch Accommodations for their own <hi>Souls,</hi> their <hi>Bene<g ref="char:EOLhyphen"/>factors,</hi> and the <hi>Church</hi> and <hi>Nation</hi> may be benefitted by their <hi>Conſtant Prayers.</hi>
+            </head>
+            <p>THe greateſt part of the Works of Charity amongſt us, are but of little more uſe than for meer Temporal Accom<g ref="char:EOLhyphen"/>modations. The Reaſon is, Becauſe there is neither any Limi<g ref="char:EOLhyphen"/>tation in the choice of the Perſons, that they be indeed of the Houſhold of Faith; that is, of known and approved Vertue, Piety, and Devotion; nor ſuch Proviſion made, that they be effectually Inſtructed, Tutored, and, by ſufficient Religious Ex<g ref="char:EOLhyphen"/>erciſes, trained up to be ſo, as far as Humane Means can avail. This is eaſie to be obſerved, not only in our Hoſpitals, but even in our Schools and Colleges, in our Univerſities, and in our Ca<g ref="char:EOLhyphen"/>thedrals. Not only in the World, but even in thoſe Places Ori<g ref="char:EOLhyphen"/>ginally ſet apart for the Servants of God, it may be feared, the Devil, through the Careleſneſs and Inconſiderateneſs of Men, hath gotten too great a part. And this is not only a Shame to our Church and Nation, but a matter of much greater Miſchief than is ordinarily obſerved, or can eaſily be imagined.</p>
+            <p>Certain it is, that this Life, which is but ſhort, and to us Mortals incertain, is but a <hi>Preparation</hi> to another of longer Duration. And, therefore, in our Foundations of this Nature, if we have not a Principal reſpect to that, that the Promotion of that be well provided for and ſecured, we loſe the Principal and moſt Noble Part of our Charity. The reſt, without it, is but a Proviſion for Brutes or Animals, if not worſe—;but this is for Saints and young Angels.</p>
+            <pb facs="tcp:174228:2"/>
+            <!-- PDF PAGE 78 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:174228:3"/>
+            <!-- PDF PAGE 79 -->
+            <p>Tho it was much to be Wiſhed, that we had ſuch Accommo<g ref="char:EOLhyphen"/>dations for<note n="*" place="margin">The Author hath alſo con<g ref="char:EOLhyphen"/>ſider'd how <hi>ſin<g ref="char:EOLhyphen"/>gle Men</hi> might live together in a Religious Society, with ſeveral <hi>Advan<g ref="char:EOLhyphen"/>tages of Religi<g ref="char:EOLhyphen"/>ous Exerciſes,</hi> good <hi>Conveni<g ref="char:EOLhyphen"/>ence for Hu<g ref="char:EOLhyphen"/>mane Life</hi> up<g ref="char:EOLhyphen"/>on reaſonable Terms, and yet follow their ſeveral <hi>Imployments</hi> without any Hinderance, or loſs of Time: But he had ra<g ref="char:EOLhyphen"/>ther ſee a com<g ref="char:EOLunhyphen"/>pleat Number of Perſons ſo diſpoſed, to begin and give an Example of ſuch a So<g ref="char:EOLhyphen"/>ciety, than of<g ref="char:EOLhyphen"/>fer any more <hi>Propoſals</hi> till he ſeeth the Succeſs of this.</note> Men as well as for Women, who are well diſpoſed; yet I think it moſt proper to begin with a <hi>Proviſion for Wo<g ref="char:EOLhyphen"/>men,</hi> for divers Reaſons.
+<list>
+                  <item>1. Becauſe of that Sex we find moſt Devout People.</item>
+                  <item>2. Their Employments (for the moſt part) may better admit of Intermiſſion for them to go out to Church twice a day.</item>
+                  <item>3. They do moſt need it; for whereas Men can ordinarily Earn 2 <hi>s.</hi> or 2 <hi>s.</hi> 6 <hi>d. per</hi> day, moſt Wo<g ref="char:EOLhyphen"/>men cannot Earn above 6 <hi>d.</hi> or 4 <hi>d.</hi> or not ſo much.</item>
+               </list>
+            </p>
+            <p>The Choice of Perſons being well made, beſides the Advan<g ref="char:EOLhyphen"/>tage of Leiſure for the Worſhip of God, both in Publick, and in their ordinary Religious Exerciſes together at Home, Care is to be taken that they be Inſtructed, and often Admoniſhed, <hi>how to go on to Perfection,</hi> (Heb. 6.1.) <hi>Perfecting holineſs in the Fear of God.</hi> (2 Cor. 7.1.) <hi>That they may ſtand perfect and compleat in all the Will of God,</hi> (Col. 4.12.) <hi>And in every good Work:</hi> (Heb. 13.21.) How to Walk with God all the Day, continually, in all things: And how to Converſe with others to their Edifi<g ref="char:EOLhyphen"/>cation, and to the Improvement of themſelves. And being thus fitted and prepared, they may be imploy'd upon Works of Charity to others, in Viſiting the Sick and Needy, and car<g ref="char:EOLhyphen"/>rying Alms and Relief where there may be occaſion; and be made Bleſſed Inſtruments for ſpreading the Leven of the King<g ref="char:EOLhyphen"/>dom of Chriſt.</p>
+            <p>It may be farther improved to be a <hi>Seminary of Piety and Vertue,</hi>
+               <note n="*" place="margin">And for the Education of Young Wo<g ref="char:EOLhyphen"/>men in Religi<g ref="char:EOLhyphen"/>ous Exerciſes of Devotion and Vertue.</note> for ſuch ſingle Perſons as want no Accommo<g ref="char:EOLhyphen"/>dations of this World; and a moſt excellent Accommodation for Retirement and Repoſe for ſuch as deſire it, and want no other. And, therefore, though this be Propoſed for ſuch as Need, yet is there no Reaſon to exclude from Co-habitation with them, <hi>ſuch other Devout Women as need not,</hi> pro<g ref="char:EOLhyphen"/>vided they will be Conformable to the Orders of the Houſe, and endeavour to promote ſo good a Work, by a Holy and Heavenly Example, (which may be of great Uſe) by their Purſe and by their Pains, for the Aſſiſtance of thoſe that Need. However, it is ſuch a piece of Charity as is yet too rare amongſt us.</p>
+            <pb facs="tcp:174228:3"/>
+            <!-- PDF PAGE 79 -->
+            <p>To be a Miniſter of the Divine Providence, in Proviſion of ſuch Accommodations for ſuch as Need, and would make ſo good uſe of them, is certainly an Excellent Work of Charity. We are Exhorted and Admoniſhed by the Apoſtle, <hi>Gal.</hi> 6.10. <hi>While we have time, to do good unto all Men, and eſpecially to them of the Houſhold of Faith;</hi> and theſe certainly are ſuch, if any. Theſe are ſome of the choice Members of the Houſhold of Faith; and this is the chiefeſt Good that we can do unto them, ſo ſet them free from the Neceſſities of this Life, to Serve the Lord. This is not to feed the Body, but to feed the Soul. This is indeed to lay up Treaſure in Heaven, and to make us Friends there; to make the Favourites of Heaven up<g ref="char:EOLhyphen"/>on Earth, and their Angels in Heaven our Friends; and the God of Heaven himſelf, if we do not otherwiſe offend him. <hi>The Adminiſtration of this Service, not only ſupplieth the Want of the Saints, but is abundant alſo by many Thankſgivings unto God.</hi> 2 Cor. 9.12. <hi>An Odor of a ſweet Smell, a Sacrifice acceptable, well-pleaſing unto God.</hi> Phil. 4.18. And, certainly, to be con<g ref="char:EOLhyphen"/>ſtantly remembred among other Benefactors at the Altar of God upon Earth, in the fervent Prayers of Devout Chriſtians, is a hopeful way, if there be nothing to interpoſe, to come in Remembrance for Good before the Throne of God in Heaven, by the Mediation of our Great High Prieſt there, who is always mindful of what is done to himſelf in his Saints &amp; Servants here.</p>
+            <div type="part">
+               <head>
+                  <hi>Socrates Chriſtianus:</hi> Or, Several Tracts and Papers, Written by the Author of this Propoſal, (who in ſome of them uſed that Name) and Printed by his Order, ſince the <hi>Revolution.</hi>
+               </head>
+               <p>THE <hi>Author</hi> having begun <hi>a Religious Society of Single Women,</hi> according to the Deſign of the ſaid Propoſal, upon Preſumption that there is yet ſo much Piety and Charity left in this City; and eſpecially in this Sex, as not to ſuffer it to fall for want of Supplies; and being willing himſelf to contribute what he can thereunto, hath, among other things, dedicated to that Pious Work what Profit may be made either of ſuch of <hi>his Writings</hi> which have been Printed, and remain in his Hands yet unſold, or of ſuch others as he doth deſign for the Preſs: and therefore, for that Purpoſe, and for the Satisfaction of divers, who have deſired Notes of what he hath Written ſince the <hi>Revolution,</hi> hath here added the <hi>Titles</hi> of them, in Order as they were Written and Publiſhed, as followeth:</p>
+               <pb facs="tcp:174228:4"/>
+               <!-- PDF PAGE 80 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174228:4"/>
+               <!-- PDF PAGE 80 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174228:5"/>
+               <!-- PDF PAGE 81 -->
+               <list>
+                  <item>THE true <hi>Engliſh</hi> Government and Miſ-government of the Four laſt Reigns.
+<list>
+                        <item>1. A Preface to the KING.</item>
+                        <item>2. A Specimen of a Declaration againſt Debauchery.</item>
+                        <item>3. Important Queſtions upon the late Revolution.</item>
+                        <item>4. A Caveat againſt Flattery, and Prophana<g ref="char:EOLhyphen"/>tion of Sacred things to Secular Ends. 1689.</item>
+                     </list>
+                  </item>
+                  <item>Of Humiliation, with a Poſtſcript.</item>
+                  <item>An Admonition to the Magiſtrates, with an Appendix.</item>
+                  <item>Reflections upon the Occurrences of the laſt Year. 1689.</item>
+                  <item>An Apology for Mr. <hi>Stafford,</hi> with an Admonition, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Authority abuſed by the Vindication of the laſt Years Tranſ<g ref="char:EOLhyphen"/>actions. 1690.</item>
+                  <item>Conſiderations for Competitors, and Electors of Repreſenta<g ref="char:EOLhyphen"/>tives in Parliament.</item>
+                  <item>A Relation of the late Action at Sea, (1690.) with Reflections thereupon; and a Letter to a Malefactor; and a Draught of an Act for <hi>Reſtraining notorious Sins,</hi> &amp;c.</item>
+                  <item>Reaſons for the Tryal of the Earl of <hi>Torrington</hi> by Impeachment in Parliament.</item>
+                  <item>The Spirit of the Church Faction. 1691.</item>
+                  <item>An Admonition concerning a Publick Faſt. 1691.</item>
+                  <item>An Appeal to Heaven and Earth, <hi>&amp;c.</hi> with Queſtions Theo<g ref="char:EOLhyphen"/>logical, and Theologico Political. 1691.</item>
+                  <item>The Beginning &amp; Progreſs of a Needful and Hopeful Reformation.</item>
+                  <item>A Petition to the Houſe of Commons againſt their Speaker, <hi>&amp;c.</hi>
+                  </item>
+                  <item>The Prudentials, to the Authors of the <hi>Athenian Mercury,</hi> praying Advice, for Relief of their Countrey, againſt that pernicious Diſeaſe.</item>
+                  <item>Queſtions Parliamentary concerning the Rights of the Commons of <hi>England,</hi> and Duty of their Repreſentatives.</item>
+                  <item>Old <hi>Engliſh</hi> Loyalty and Policy agreeable to Primitive Chriſtianity.</item>
+                  <item>A Collection of Modern Relations concerning Witches and Witch<g ref="char:EOLhyphen"/>craft, with a Meditation of Sir <hi>M. Hale</hi>'s upon that Subject. 1693.</item>
+                  <item>Queſtions concerning Witches and Witchcraft.</item>
+                  <item>Queſtions concerning the Proper and Peculiar Chriſtian Worſhip.</item>
+                  <item>Liturgica, <hi>&amp;c. not Publiſhed.</hi>
+                  </item>
+                  <item>Miſtaken Juſtice, <hi>&amp;c.</hi> in <hi>Francis Newland.</hi> 1695.</item>
+                  <item>
+                     <hi>Phinehas:</hi> Or the Common Duty of all Men, and the Special Duty of Magiſtrates, to be Zealous and Active in the Execution of Laws againſt Scandalous Sins and Debauchery. 1695.</item>
+                  <item>A Letter to a Lady, concerning the due Improvement of her Ad<g ref="char:EOLhyphen"/>vantages of Cellbacie, Portion, and Maturity of Age and Judgment.</item>
+                  <item>The Liturgy of the Ancients repreſented, <hi>&amp;c. Quarto's.</hi>
+                  </item>
+                  <item>The Office of the Faithful Enlarged, according to Ancient Forms.</item>
+                  <item>Sacred Hymns. <hi>Octavo's</hi>
+                  </item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:174228:6"/>
+               <!-- PDF PAGE 82 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
